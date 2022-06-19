@@ -1,0 +1,26 @@
+.header {
+  padding: 28px 48px 56px;
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(min-content, max-content));
+  grid-template-rows: min-content;
+  justify-content: space-between;
+}
+
+@media screen and (max-width: 1024px) {
+  .header{
+    padding: 28px 48px 48px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .header{
+    padding: 28px 24px 48px;
+  }
+}
+
+@media screen and (max-width: 420px) {
+  .header{
+    padding: 16px 16px 48px;
+  }
+}
