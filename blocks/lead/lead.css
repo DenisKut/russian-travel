@@ -1,8 +1,8 @@
 .lead {
-  font-family: 'Inter';
+  font-family: 'Inter', 'Helvetica', sans-serif;
   color: #fff;
   display: grid;
-  grid-template-columns: min-content;
+  grid-template-columns: minmax(min-content, max-content);
   justify-items: center;
   justify-content: center;
   padding: 0 0 92px;
