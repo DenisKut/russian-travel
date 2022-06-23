@@ -4,4 +4,4 @@
 ### Доделать:
 * В перспективе реализовать настоящее переключение на английский язык, а так же попробовать осилить это на JS.
 
-**https://deniskut.github.io/russian-travel/**
+**https://deniskut.github.io/russian-travel/index.html**

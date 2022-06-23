@@ -16,7 +16,7 @@
 
 .cover__image:after {
   content: '';
-  background: rgba(34, 36, 43, 0.15);
+  background: rgba(42, 44, 47, 0.3);
   z-index: 1;
   transition-property: background;
   transition-duration: 0.3s;
@@ -30,7 +30,7 @@
 }
 
 .cover__image:hover:after{
-  background: rgba(50, 53, 56, 0.68);
+  background: rgba(42, 44, 47, 0.8);
 }
 
 @media screen and (max-width: 1024px) {
