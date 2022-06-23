@@ -4,7 +4,7 @@
   display: grid;
   grid-template-columns: fit-content(690px);
   justify-items: left;
-  margin: 0 calc((100% - 88vw)/2);
+  margin: 0 11.5%;
   padding-bottom: 92px;
 }
 

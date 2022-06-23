@@ -10,7 +10,6 @@
   align-items: center;
   align-content: center;
   justify-content: center;
-  margin: 0 48px;
   padding: 19% 0;
 }
 
@@ -47,6 +46,6 @@
 
 @media screen and (max-width: 720px) {
   .cover__image {
-      padding: 10% 0;
+      padding: 8% 0;
   }
 }
