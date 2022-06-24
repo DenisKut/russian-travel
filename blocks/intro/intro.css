@@ -8,15 +8,22 @@
   padding-bottom: 92px;
 }
 
-@media screen and (max-width: 928px) {
+@media screen and (max-width: 1205px) {
   .intro {
-      margin-left: 24px;
-  }
+    margin: 0 calc((100% - 928px)/2);
+}
+}
+
+@media screen and (max-width: 1024px) {
+  .intro {
+    margin: 0 48px;
+}
 }
 
 @media screen and (max-width: 768px) {
   .intro {
     padding-bottom: 88px;
+    margin-left: 24px;
   }
 }
 
