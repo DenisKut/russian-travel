@@ -34,7 +34,7 @@
 
 @media screen and (max-width: 1024px) {
   .cover__image {
-      margin: 0;
+    padding: 19.05% 0;
   }
 }
 
